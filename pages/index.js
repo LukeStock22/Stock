@@ -5,17 +5,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Luke Stockbridge</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to the Luke Stockbridge Playground
         </h1>
 
         <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
+          I really don't know what's going on here
         </p>
 
         <div className={styles.grid}>
