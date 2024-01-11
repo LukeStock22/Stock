@@ -19,9 +19,9 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="/fantasy-cricket" className={styles.card}>
+            <h3>Fantasy Cricket &rarr;</h3>
+            <p>Cricket is love. Cricket is life. Cricket is an emotion.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>

@@ -21,7 +21,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "pages/fantasy-cricket/index.jsxcricket.jsx"  ],
   "exclude": [
     "node_modules"
   ]
