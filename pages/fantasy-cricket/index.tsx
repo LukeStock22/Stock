@@ -1,7 +1,7 @@
-// pages/fantasy-cricket/index.js
+// pages/fantasy-cricket/index.tsx
 import React from 'react';
 
-const FantasyCricketPage = () => {
+const FantasyCricketPage: React.FC = () => {
   return (
     <div>
       <h1>Fantasy Cricket Page</h1>
