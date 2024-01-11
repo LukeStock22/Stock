@@ -9,7 +9,7 @@ export default async function handler(
 ) {
   try {
     const result = await sql`
-      CREATE TABLE Auction (
+      CREATE TABLE Players (
         Name varchar(255),
         Owner varchar(255),
         Franchise varchar(255),
